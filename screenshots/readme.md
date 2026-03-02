@@ -1,11 +1,11 @@
-## Contains all the required screenshots of the Level 1 process
+# Contains all the required screenshots of the Level 1 process
 
-# API Gateway Resource View
+## API Gateway Resource View
 
-# JSON API Method
+## JSON API Method
 
-# Weather API Method
+## Weather API Method
 
-# Countries API Method
+## Countries API Method
 
-# Stage v1
+## Stage v1

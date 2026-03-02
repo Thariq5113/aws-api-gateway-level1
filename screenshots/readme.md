@@ -1,4 +1,4 @@
-# Contains all the required screenshots of the Level 1 process
+# Screenshots
 
 ## API Gateway Resource View
 
